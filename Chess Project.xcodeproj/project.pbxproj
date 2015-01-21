@@ -14,6 +14,7 @@
 		5BD9524F1A6F62B100FEBF44 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BD9524E1A6F62B100FEBF44 /* Images.xcassets */; };
 		5BD952521A6F62B100FEBF44 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BD952501A6F62B100FEBF44 /* LaunchScreen.xib */; };
 		5BD9525E1A6F62B100FEBF44 /* Chess_ProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BD9525D1A6F62B100FEBF44 /* Chess_ProjectTests.m */; };
+		5BD952681A6F62F300FEBF44 /* alg2chessboard.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 5BD952671A6F62F300FEBF44 /* alg2chessboard.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		5BD952571A6F62B100FEBF44 /* Chess ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Chess ProjectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BD9525C1A6F62B100FEBF44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BD9525D1A6F62B100FEBF44 /* Chess_ProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Chess_ProjectTests.m; sourceTree = "<group>"; };
+		5BD952671A6F62F300FEBF44 /* alg2chessboard.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alg2chessboard.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				5BD952481A6F62B100FEBF44 /* ViewController.h */,
 				5BD952491A6F62B100FEBF44 /* ViewController.m */,
 				5BD9524B1A6F62B100FEBF44 /* Main.storyboard */,
+				5BD952671A6F62F300FEBF44 /* alg2chessboard.PNG */,
 				5BD9524E1A6F62B100FEBF44 /* Images.xcassets */,
 				5BD952501A6F62B100FEBF44 /* LaunchScreen.xib */,
 				5BD952411A6F62B100FEBF44 /* Supporting Files */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BD9524D1A6F62B100FEBF44 /* Main.storyboard in Resources */,
+				5BD952681A6F62F300FEBF44 /* alg2chessboard.PNG in Resources */,
 				5BD952521A6F62B100FEBF44 /* LaunchScreen.xib in Resources */,
 				5BD9524F1A6F62B100FEBF44 /* Images.xcassets in Resources */,
 			);

@@ -10,6 +10,13 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UILabel *king;
+@property (weak, nonatomic) IBOutlet UILabel *queen;
+@property (weak, nonatomic) IBOutlet UILabel *bishop;
+@property (weak, nonatomic) IBOutlet UILabel *rook;
+@property (weak, nonatomic) IBOutlet UILabel *knight;
+@property (weak, nonatomic) IBOutlet UITextField *xval;
+- (IBAction)Submit:(id)sender;
 
 @end
 
